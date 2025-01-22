@@ -1,1 +1,1 @@
-<img src="/Users/xintianlim/food/assets/try1">
+<img src="food/assets/try1">
